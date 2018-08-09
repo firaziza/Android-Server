@@ -1,0 +1,4 @@
+#Thu Aug 09 02:28:39 EDT 2018
+base.0=/Users/arifaziz/Downloads/SocketServer-master/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

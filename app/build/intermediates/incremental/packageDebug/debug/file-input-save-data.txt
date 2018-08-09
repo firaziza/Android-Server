@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 18 17:27:21 EST 2017
+0.baseType=DIRECTORY
+0.base=/Users/arifaziz/Downloads/SocketServer-master/app/build/intermediates/transforms/dexMerger/debug/18
+0.path=classes.dex
+0.set=DEX
+count=1
